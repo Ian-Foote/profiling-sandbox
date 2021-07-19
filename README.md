@@ -4,7 +4,7 @@ This is a minimal example of coverage not reporting the lines run in a `sys.setp
 
 To replicate:
 * Create a virtualenv
-* `pip install -r requirements.txt
+* `pip install -r requirements.txt`
 * `coverage run -m unittest`
 * `coverage report -m`
 
